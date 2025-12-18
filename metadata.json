@@ -1,0 +1,8 @@
+{
+  "name": "iChat Gemini Portal",
+  "description": "A high-performance chat interface for iStoreOS, supporting multiple API keys, custom model routing, and mobile-responsive design for use over Cloudflare Tunnels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
